@@ -1,6 +1,12 @@
-#about-vardarac {
+#about-vardarac a {
   color: white;
   font-size: 18pt;
   width: 75%;
   margin: auto;
+  color: white;
+  text-decoration: none;
+}
+
+#about-vardarac a:hover {
+  text-decoration: underline;
 }
